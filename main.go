@@ -1,6 +1,6 @@
 /* Owned and managed by L702x
 * Licensed under AGPLv3
-* Original repo:
+* Original repo: https://github.com/L702x/fake-ransom/
 *
 * Note: this program is purley for jokes, it does not mess with your actual filesystem
 * ASCII skull from: https://ascii.co.uk/art/skulls
@@ -108,7 +108,7 @@ func main() {
 	fmt.Println("\n")
 	typewriter(red, " TOO LATE. THE WIPING PROCESS HAS BEGUN... or has it?", 20*time.Millisecond)
 	typewriter(green, " HAHA you fell for it again! lmao, nah this is just a joke! have a nice day\n", 40*time.Millisecond)
-	fmt.Println("Links n stuff:\n GitHub repo: \n (c) 2026 L702x\n")
+	fmt.Println("Links n stuff:\n GitHub repo: https://github.com/L702x/fake-ransom/\n (c) 2026 L702x\n")
 
 	// the program closes after final msg so im adding this
 	fmt.Println("\n")
